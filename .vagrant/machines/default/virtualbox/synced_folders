@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/api":{"guestpath":"/home/vagrant/api","hostpath":"/Users/andy/Projects/laoshi/api","disabled":false},"/home/vagrant/frontend":{"guestpath":"/home/vagrant/frontend","hostpath":"/Users/andy/Projects/laoshi/frontend","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/andy/Projects/laoshi","disabled":false}}}
